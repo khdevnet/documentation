@@ -239,5 +239,10 @@ Elements closer together are perceived to be more related than elements farther 
 * Page Design Elements (Increase the effectiveness of a document through: Table of contents, Revision history, Headers and footers, Lists/bullets, Captions, Glossary)
 * Visuals (Keep visuals simple; If explanation is needed, use a caption; Refer to visuals in the text of the document by their figure or table numbers; Place visuals as close as possible to the text where they are discussed; Consider placing detailed or lengthy visuals in an appendix)
 
-# Resources
-
+## Resources
+* [SoftwareProjectDocumentation structure](https://github.com/khdevnet/documentation/blob/master/SoftwareProjectDocumentation.docx)
+* [Checklist Architecture](https://github.com/khdevnet/documentation/blob/master/checklists/ChecklistArchitecture.docx)
+* [Checklist Commenting](https://github.com/khdevnet/documentation/blob/master/checklists/ChecklistCommenting.docx)
+* [Checklist Requirements](https://github.com/khdevnet/documentation/blob/master/checklists/ChecklistRequirements.docx)
+* [Checklist SelfDocumentingCode](https://github.com/khdevnet/documentation/blob/master/checklists/ChecklistSelfDocumentingCode.docx)
+* [Checklist ChecklistTestCases](https://github.com/khdevnet/documentation/blob/master/checklists/ChecklistTestCases.docx)
