@@ -86,3 +86,30 @@ Elements closer together are perceived to be more related than elements farther 
 ### Examples
 ![](https://github.com/khdevnet/documentation/blob/master/src/writing/use-case.png)
 ![](https://github.com/khdevnet/documentation/blob/master/src/writing/user-story.png)
+## Software Design Document
+### Introduction
+* Purpose
+* Scope
+* Intended audience
+* Design goals and rationale
+### System Architecture
+* High-level overview of functionality and responsibilities of the system
+* Describe high-level components and how they work together
+* Diagrams, flowcharts, models, scenarios and high-level use cases showing system behavior or structure 
+### Detailed System Design
+* Describe in detail the functionality and responsibilities for each component of the system
+* Use class diagrams and sequence diagrams to show relationships and flows
+### Data Design
+* Describe data structures, databases and storage units and their relationships
+* Entity Relationship Diagram (ERD) to show structure and relationships
+### User Interface
+* Describe functionality from the user's perspective
+* Wireframes or mockups of what the UI will look like
+* Describe the controls and their behaviors
+* Supported orientations and dimensions
+### Glossary/Appendix
+
+## Code documentation
+* Code comments (don't use dead code, don't comment obvious things, use comments to describe not obvious things, generate documentation from comments if it is portable library)
+* API documentation (use swagger or automate generators)
+* Readmes (use well done instructions)
