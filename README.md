@@ -76,3 +76,13 @@
 Elements closer together are perceived to be more related than elements farther apart; Use contrast to make important elements stand out; Whitespace lets a design breathe, and separates groups of information)
 * Page Design Elements (Increase the effectiveness of a document through: Table of contents, Revision history, Headers and footers, Lists/bullets, Captions, Glossary)
 * Visuals (Keep visuals simple; If explanation is needed, use a caption; Refer to visuals in the text of the document by their figure or table numbers; Place visuals as close as possible to the text where they are discussed; Consider placing detailed or lengthy visuals in an appendix)
+
+# Deliverables
+## Requirements
+* Business
+* Functional
+* Non functional
+* Interface
+### Examples
+![](https://github.com/khdevnet/documentation/blob/master/src/writing/use-case.png)
+![](https://github.com/khdevnet/documentation/blob/master/src/writing/user-story.png)
