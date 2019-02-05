@@ -30,3 +30,4 @@
 * Websites
 
 ## The writing process
+![](https://github.com/khdevnet/documentation/blob/master/src/writing/process.png)
